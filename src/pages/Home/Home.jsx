@@ -17,7 +17,7 @@ const Home = () => {
         labels: ['January', 'February', 'March', 'April', 'May', 'June'],
         datasets: [
           {
-            label: 'Sales',
+            label: 'Posts',
             data: [12, 19, 3, 5, 2, 3],
             borderColor: 'rgba(75, 192, 192, 1)',
             borderWidth: 2,
